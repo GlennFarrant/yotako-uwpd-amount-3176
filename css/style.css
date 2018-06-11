@@ -1,0 +1,22 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 375px
+}
+.style0,
+.style1,
+.style2,
+.style3 {
+  margin-left: 31px;
+  margin-top: 35px;
+  width: 311px;
+  height: 133px
+}
+.style1,
+.style2,
+.style3 {
+  margin-top: 19px
+}
+.style3 {
+  margin-top: 18px
+}
